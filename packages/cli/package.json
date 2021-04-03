@@ -1,6 +1,6 @@
 {
   "name": "jbook-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "files": [
     "dist"
@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jbook-cli/local-client": "^1.0.0"
+    "@jbook-cli/local-client": "^1.0.5"
   },
   "devDependencies": {
     "@types/node": "^14.14.37",
