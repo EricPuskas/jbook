@@ -6,7 +6,7 @@ import { useActions } from "../hooks/useActions";
 import "./CellList.css";
 
 const CellList: React.FC = () => {
-  const { fetchCells, saveCells } = useActions();
+  const { fetchCells } = useActions();
 
   /**
    * Get cells
